@@ -1,2 +1,8 @@
-www.fj.10086.cn:443
-www.fj.10086.cn:80
+cooperator.sxydzq.cn:443
+cooperator.sxydzq.cn:80
+hzcloud.sxydzq.cn:443
+hzcloud.sxydzq.cn:80
+platform.sxydzq.cn:443
+platform.sxydzq.cn:80
+wx.sxydzq.cn:443
+wx.sxydzq.cn:80

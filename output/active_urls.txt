@@ -1,2 +1,7 @@
-http://www.fj.10086.cn
-https://www.fj.10086.cn
+http://cooperator.sxydzq.cn
+http://hzcloud.sxydzq.cn:443
+http://platform.sxydzq.cn
+http://wx.sxydzq.cn
+http://wx.sxydzq.cn:443
+https://cooperator.sxydzq.cn
+https://platform.sxydzq.cn
